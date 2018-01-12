@@ -1,0 +1,10 @@
+<template>
+    <div>
+        <header>
+            <app-login></app-login>
+            <app-regieter></app-regieter>
+            <footer></footer>
+            今天的风儿甚是喧嚣
+        </header>
+    </div>
+</template>
