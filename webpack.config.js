@@ -55,7 +55,7 @@ module.exports = {
    // 注意需要注释掉publicPath，不然会冲突
    plugins:[
     new HtmlWebpackPlugin({
-        filename: 'template.html',
+        filename: 'index.html',
         template: './src/index.html'
      
     })
